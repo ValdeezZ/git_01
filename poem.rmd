@@ -35,5 +35,8 @@ To where it bent in the undergrowth;
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
+The sea was wet as wet could be,  
+      The sands were dry as dry.
+
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
